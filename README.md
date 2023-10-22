@@ -1,2 +1,2 @@
 # Mario_DV_CA2
-AI Continuous Assessment 2
+Artificial Intelligence Continuous Assessment 2
